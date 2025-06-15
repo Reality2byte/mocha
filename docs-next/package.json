@@ -13,8 +13,8 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/starlight": "^0.28.4",
-    "astro": "^4.15.3",
+    "@astrojs/starlight": "^0.34.4",
+    "astro": "^5.9.3",
     "astro-og-canvas": "^0.5.4",
     "debug": "^4.3.7",
     "needle": "^3.3.1",
